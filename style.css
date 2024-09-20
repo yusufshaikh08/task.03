@@ -1,5 +1,6 @@
-.History{
+.heading{
     text-align: center;
+    background-color: blueviolet;
 }
 .img{
     float: right;
@@ -33,11 +34,21 @@
     text-decoration: none;
     text-transform: none;
 }
+.link{
+    text-decoration: none;
+    text-transform: none;
+}
 .img2{
     width: 300px;
     height: 200px;
 }
-.paragraph{
-    text-align: right;
-    line-height: 40px;
+.para{
+   text-align: right;
+   
+
 }
+.img2{
+    float: left;
+    width:350px;
+}
+
