@@ -1,42 +1,56 @@
 .heading{
     text-align: center;
-    background-color: blueviolet;
+    background-color:grey;
+    text-decoration: underline;
+    text-transform: capitalize;
+    font: size 600px;
+    height: 35px;
+    color: black;
 }
 .img{
     float: right;
     width: 350px;
+
 }
 .link{
     text-decoration: none;
     text-transform: none;
+    color:red;
 }
 .link1{
     text-transform: none;
     text-decoration: none;
+    color: red;
 }
 .link2{
     text-decoration: none;
     text-transform: none;
+    color: red;
 }
 .link3{
     text-decoration: none;
     text-transform: none;
+    color: red;
 }
 .link4{
     text-decoration: none;
     text-transform: none;
+    color: red;
 }
 .link5{
     text-decoration: none;
     text-transform: none;
+    color: red;
 }
 .link6{
     text-decoration: none;
     text-transform: none;
+    color: red;
 }
 .link{
     text-decoration: none;
     text-transform: none;
+    color: red;
 }
 .img2{
     width: 300px;
@@ -44,6 +58,7 @@
 }
 .para{
    text-align: right;
+   color: white;
    
 
 }
@@ -51,4 +66,23 @@
     float: left;
     width:350px;
 }
+#section3{
+   
+    color: white;
+}
+.section{
+    
+    color: white;
+}
+.section2{
 
+    color: white;
+}
+*{
+    background-color: black;
+}
+.button{
+    color: black;
+    background-color: azure;
+
+}
